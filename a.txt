@@ -2,3 +2,4 @@ init...
 hello second
 hello world
 44444
+local
