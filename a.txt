@@ -5,6 +5,6 @@ init...111112222233333
 hello second
 hello world
 44444
-local
+local dev
 这是第二个用户
 hello git frist
