@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 init...111112222233333
+=======
+init...111112222
+33333
+>>>>>>> refs/remotes/origin/main
 hello second
 hello world
 44444
